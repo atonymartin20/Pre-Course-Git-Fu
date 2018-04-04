@@ -11,7 +11,7 @@
  * Commit -
  * Push -
 
-## Steps to our Lamba School Git Flow
+## Steps to our Lambda School Git Flow
 1. Fork repository
 2. `git clone` w/ the repository URL 
 3. After Changes Made: `git status`
